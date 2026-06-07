@@ -139,5 +139,3 @@
 ## Автор
 
 Артемий Ильин
-
-GitHub: https://github.com/artemiilin
